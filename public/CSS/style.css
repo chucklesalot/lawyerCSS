@@ -1,0 +1,57 @@
+
+#wrapper {
+    background-color: greenyellow;
+    width: 1400px;
+}
+
+#logo {
+    text-align: center;
+    background-color: #ffbdf2;
+    width: 28.1%;
+    height: 100px;
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    border-style: groove;
+    border-width: 6px;
+
+    border-color: red blue;
+
+}
+
+#menu {
+    position: fixed;
+    top: 98px;
+    right: 0%;
+    border-style: groove;
+    border-width: 6px;
+    border-color: red blue;
+
+    background-color: #ffbdf2;
+    width: 100px;
+    height: 130px;
+}
+#pitch {
+    position: fixed;
+    top: 0%;
+    width: 69.5%;
+    height: 100px;
+    background-color: #ffbdf2;
+    border-style: groove;
+    border-width: 6px;
+    border-color: red blue;
+
+}
+
+#header {
+    height: 110px;
+}
+
+.blu {
+    border: ridge;
+    border-color: grey;
+    width: 400px;
+    background-color: #63ffb6;
+    float: left;
+}
+
